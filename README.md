@@ -2,7 +2,7 @@
 
 BitShares Explorer REST API allows your programs to query the blockchain. 
 
-[https://explorer.bitshares-kibana.info/apidocs/](https://explorer.bitshares-kibana.info/apidocs/)
+[https://evrazdex.org/](https://https://evrazdex.org/)
 
 - [Installation](#installation)
   - [Elasticsearch node](#Elasticsearch-node)
