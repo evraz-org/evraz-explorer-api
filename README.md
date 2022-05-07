@@ -1,6 +1,6 @@
-# BitShares Explorer REST API
+# EVRAZ Explorer REST API for BitShares
 
-BitShares Explorer REST API allows your programs to query the blockchain. 
+EVRAZ Explorer REST API for BitShares allows your programs to query the blockchain. 
 
 [https://evrazdex.org/](https://https://evrazdex.org/)
 
